@@ -1,0 +1,6 @@
+{
+  "name": "yoshz/reactjs-php-bridge",
+  "devDependencies": {
+    "react": "~0.14"
+  }
+}

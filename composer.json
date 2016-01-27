@@ -1,0 +1,22 @@
+{
+    "name": "yoshz/reactjs-php-bridge",
+    "autoload": {
+        "psr-4": { "ReactJsBridge\\": "src/"}
+    },
+    "require": {
+        "ext-v8js": ">=0.1.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.1",
+        "twig/twig": "^1.0"
+    },
+    "suggests": {
+        "twig/twig": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Yosh de Vos",
+            "email": "yosh@elzorro.nl"
+        }
+    ]
+}
